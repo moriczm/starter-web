@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ### Purpose sub
 
-This is sample 3d level heading
+This is just to show that something is going to change as part of the purpose sub heading.
 
 ## How to contribute
 
