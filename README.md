@@ -13,6 +13,7 @@ This is just to show that something is going to change as part of the purpose su
 ## How to contribute
 
 Contribution is simple, just edit.
+Adding more information for change
 
 
 ## Deployment section
